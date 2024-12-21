@@ -32,10 +32,22 @@ class Program
             guess = int.Parse(Console.ReadLine());
             attempts++;
 
-            if (guess < targetNumber)
-                Console.WriteLine("Загаданное число больше.");
-            else if (guess > targetNumber)
-                Console.WriteLine("Загаданное число меньше.");
+            if (guess < targetNumber){
+                if ((targetNumber - guess) < 10){
+                    Console.WriteLine("Загаданное число больше.");
+                }
+                else if ((targetNumber - guess) > 10){
+                    Console.WriteLine("Загаданное число сильно больше.");
+                }
+            }
+            else if(guess > targetNumber){
+                if ((guess - targetNumber) < 10){
+                    Console.WriteLine("Загаданное число меньше.");
+                }
+                else if ((guess - targetNumber) > 10){
+                    Console.WriteLine("Загаданное число намного меньше.");
+                }
+            }
             else
                 Console.WriteLine($"Поздравляем! Вы угадали число за {attempts} попыток.");
         }
