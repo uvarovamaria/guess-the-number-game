@@ -1,10 +1,5 @@
-using System;
+Console.Write("Введите ваше имя: ");
+string playerName = Console.ReadLine();
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Добро пожаловать в игру 'Угадай число'!");
-        // Основная игровая логика будет добавлена позже
-    }
-}
+Console.WriteLine($"Добро пожаловать, {playerName}!");
+
