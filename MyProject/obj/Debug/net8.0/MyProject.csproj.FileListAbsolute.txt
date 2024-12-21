@@ -1,0 +1,15 @@
+c:\Users\Maria\guess-the-number-game\MyProject\bin\Debug\net8.0\MyProject.exe
+c:\Users\Maria\guess-the-number-game\MyProject\bin\Debug\net8.0\MyProject.deps.json
+c:\Users\Maria\guess-the-number-game\MyProject\bin\Debug\net8.0\MyProject.runtimeconfig.json
+c:\Users\Maria\guess-the-number-game\MyProject\bin\Debug\net8.0\MyProject.dll
+c:\Users\Maria\guess-the-number-game\MyProject\bin\Debug\net8.0\MyProject.pdb
+c:\Users\Maria\guess-the-number-game\MyProject\obj\Debug\net8.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Maria\guess-the-number-game\MyProject\obj\Debug\net8.0\MyProject.AssemblyInfoInputs.cache
+c:\Users\Maria\guess-the-number-game\MyProject\obj\Debug\net8.0\MyProject.AssemblyInfo.cs
+c:\Users\Maria\guess-the-number-game\MyProject\obj\Debug\net8.0\MyProject.csproj.CoreCompileInputs.cache
+c:\Users\Maria\guess-the-number-game\MyProject\obj\Debug\net8.0\MyProject.sourcelink.json
+c:\Users\Maria\guess-the-number-game\MyProject\obj\Debug\net8.0\MyProject.dll
+c:\Users\Maria\guess-the-number-game\MyProject\obj\Debug\net8.0\refint\MyProject.dll
+c:\Users\Maria\guess-the-number-game\MyProject\obj\Debug\net8.0\MyProject.pdb
+c:\Users\Maria\guess-the-number-game\MyProject\obj\Debug\net8.0\MyProject.genruntimeconfig.cache
+c:\Users\Maria\guess-the-number-game\MyProject\obj\Debug\net8.0\ref\MyProject.dll
